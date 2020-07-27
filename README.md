@@ -30,5 +30,3 @@
 
 
 ![mdo's github stats](https://github-readme-stats.vercel.app/api?username=Wangrongsheng&hide=[%22issues%22]&show_icons=true)
-
-<center><img src="https://github-readme-stats.vercel.app/api?username=Wangrongsheng&hide=[%22issues%22]&show_icons=true"></center>
