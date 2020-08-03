@@ -11,10 +11,8 @@
 
 <p><em>1.hpu undergraduate at <a href="http://www.hpu.edu.cn/www/index.html">河南理工大学</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-2.<em>QQ：wrs603329354@qq.com</em>
-
-3.<em>WeChat：wzMoonquakes</em>
+<p><em>2.QQ：wrs603329354@qq.com</em></p>
+<p><em>3.WeChat：wzMoonquakes</em></p>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
