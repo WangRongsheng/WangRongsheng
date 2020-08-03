@@ -7,6 +7,11 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WangRongsheng&show_icons=true&theme=cobalt&count_private=true)
 
+---
+
+<p><em>hpu undergraduate at <a href="http://www.hpu.edu.cn/www/index.html">河南理工大学</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangRongsheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
