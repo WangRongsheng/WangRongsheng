@@ -13,7 +13,6 @@
 </em></p>
 <p><em>2.QQ：wrs603329354@qq.com</em></p>
 <p><em>3.WeChat：wzMoonquakes</em></p>
-<p><em>4.</em></p> [![Twitter: WangRongsheng](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/t8Ndraq2tEKv3nI)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
