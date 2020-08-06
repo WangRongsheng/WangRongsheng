@@ -28,7 +28,7 @@
 
 ## Visitor Statistics
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/WangRongsheng/WangRongsheng/blob/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
