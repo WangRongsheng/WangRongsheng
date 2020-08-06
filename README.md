@@ -19,3 +19,12 @@
 <p><em>4.The programming language I use：</em></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangRongsheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
+</p>
