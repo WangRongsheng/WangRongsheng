@@ -1,4 +1,6 @@
-<center><h2> Hi, I'm Github 河南理工大学-WangRongsheng! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></center>
+<strong> Hi, I'm Github 河南理工大学-WangRongsheng! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
+
+## My Github
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -8,6 +10,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WangRongsheng&show_icons=true&theme=cobalt&count_private=true)
 
 ---
+
+## Connect with Me
 
 <p><em>1.hpu undergraduate at <a href="http://www.hpu.edu.cn/www/index.html">河南理工大学</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -22,9 +26,13 @@
 
 ---
 
+## vsister
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
 </p>
+
+
