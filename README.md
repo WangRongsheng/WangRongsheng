@@ -6,7 +6,7 @@
 ![WRS's github stats](https://github-readme-stats.vercel.app/api?username=WangRongsheng&show_icons=true&theme=vue&count_private=true)
 
 
-## Visitor Statistics<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Visitor Statistics 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img src="https://github.com/WangRongsheng/WangRongsheng/blob/master/resources/banner.png" alt="Hello world">
 
