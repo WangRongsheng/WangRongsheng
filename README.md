@@ -1,3 +1,8 @@
+[![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/u014297502?spm=1000.2115.3001.5113)
+[![知乎](https://img.shields.io/badge/知乎-查看-blue)](https://www.zhihu.com/people/wang-rong-sheng-74)
+[![Bilibili](https://img.shields.io/badge/Bilibili-查看-pink)](https://space.bilibili.com/383478933)
+[![链滴](https://img.shields.io/badge/链滴-查看-orange)](https://ld246.com/member/WangRongsheng)
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
