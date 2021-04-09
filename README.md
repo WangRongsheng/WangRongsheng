@@ -3,7 +3,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-查看-pink)](https://space.bilibili.com/383478933)
 [![链滴](https://img.shields.io/badge/链滴-查看-orange)](https://ld246.com/member/WangRongsheng)
 [![腾讯云+](https://img.shields.io/badge/腾讯云%2B-查看-lightgrey)](https://cloud.tencent.com/developer/user/4161138)
-[![码云](https://img.shields.io/badge/码云-查看-yellow)](https://gitee.com/userwzz)
+[![码云](https://img.shields.io/badge/码云-查看-yellow)](https://gitee.com/niceWangRongsheng)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
