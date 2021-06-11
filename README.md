@@ -19,6 +19,8 @@
   <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
 </p>
 
+--- 
+
 <details>
 <summary><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />Click For GitHub Activity Graph</summary>
 <p align="center">
