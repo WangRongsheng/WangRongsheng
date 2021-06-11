@@ -22,7 +22,7 @@
 <details>
 <summary>Click For GitHub Activity Graph</summary>
 <p align="center">
-    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajib1066) 
+  <img alt = "GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sajib1066">
 </p>
 </details>
 
