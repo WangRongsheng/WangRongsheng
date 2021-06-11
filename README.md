@@ -33,6 +33,15 @@
 </p>
 </details>
 
+<details>
+<summary><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="20" />Click For I Want To Say U</summary>
+<p align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</p>
+</details>
+
+
+
 
 
 
