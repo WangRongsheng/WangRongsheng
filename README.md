@@ -135,6 +135,14 @@
       <img alt="latex" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
       <br>Latex
     </td>
+    <td align="center">
+      <img alt="json" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+      <br>Json
+    </td>
+    <td align="center">
+      <img alt="c" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+      <br>C
+    </td>
   </tr>
 </table>
 
