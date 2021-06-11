@@ -94,7 +94,7 @@
       <br>Tensorflow
     </td>
     <td align="center">
-      <img alt="paddle" height=64px src="https://pic.baike.soso.com/ugc/baikepic2/9081/20190821153120-229574320_png_2060_1070_99822.jpg/300">
+      <img alt="paddle" height=64px src="https://bkimg.cdn.bcebos.com/pic/f603918fa0ec08faa4c70b7b57ee3d6d54fbda23?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg">
       <br>PaddlePaddle
     </td>
     <td align="center">
