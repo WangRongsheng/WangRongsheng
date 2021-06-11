@@ -127,7 +127,14 @@
     </td>
    </tr>
   <tr>
-    
+    <td align="center">
+      <img alt="google" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png">
+      <br>Google
+    </td>
+    <td align="center">
+      <img alt="latex" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+      <br>Latex
+    </td>
   </tr>
 </table>
 
