@@ -98,7 +98,7 @@
       <br>PaddlePaddle
     </td>
     <td align="center">
-      <img alt="pytorch" height=64px width=52px src="https://pytorch.apachecn.org/docs/img/logo.svg">
+      <img alt="pytorch" height=64px width=60px src="https://pytorch.apachecn.org/docs/img/logo.svg">
       <br>Pytorch
     </td>
     <td align="center">
