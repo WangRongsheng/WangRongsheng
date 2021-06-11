@@ -151,6 +151,10 @@
       <img alt="wordpress" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
       <br>WordPress
     </td>
+    <td align="center">
+      <img alt="matlab" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
+      <br>Matlab
+    </td>
   </tr>
 </table>
 
