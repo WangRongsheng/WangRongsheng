@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
-<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="250">
+<img align='right' src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="320" height="250">
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
