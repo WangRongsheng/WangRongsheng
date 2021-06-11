@@ -94,11 +94,11 @@
       <br>Tensorflow
     </td>
     <td align="center">
-      <img alt="paddle" height=64px src="https://bkimg.cdn.bcebos.com/pic/f603918fa0ec08faa4c70b7b57ee3d6d54fbda23?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg">
+      <img alt="paddle" height=64px width=30px src="https://bkimg.cdn.bcebos.com/pic/f603918fa0ec08faa4c70b7b57ee3d6d54fbda23?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg">
       <br>PaddlePaddle
     </td>
     <td align="center">
-      <img alt="pytorch" height=64px src="https://pytorch.apachecn.org/docs/img/logo.svg">
+      <img alt="pytorch" height=64px width=30px src="https://pytorch.apachecn.org/docs/img/logo.svg">
       <br>Pytorch
     </td>
     <td align="center">
