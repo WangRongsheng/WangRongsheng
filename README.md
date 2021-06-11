@@ -40,7 +40,7 @@
 </p>
 </details>
 
-<h2>My Tech Stack</h2>
+## My Tech Stack
 <table>
   <tr>
     <td align="center">
