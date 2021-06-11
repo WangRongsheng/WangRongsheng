@@ -63,8 +63,6 @@
         <img alt="git" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
         <br>Git
       </td>
-  </tr>
-  <tr>
       <td align="center">
         <img alt="html" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
         <br>HTML
@@ -77,6 +75,8 @@
         <img alt="vim" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
         <br>Vim
       </td>
+  </tr>
+  <tr>
       <td align="center">
         <img alt="docker" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
         <br>Docker
@@ -85,8 +85,6 @@
         <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">
         <br>npm
       </td>
-    <tr>
-    </tr>
       <td align="center">
         <img alt="opencv" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png">
         <br>OpenCV
@@ -107,12 +105,12 @@
         <img alt="ubuntu" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
         <br>Ubuntu
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img alt="centos" height=64px src="https://cdn.worldvectorlogo.com/logos/centos-1.svg">
         <br>CentOS
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img alt="vue" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
         <br>Vue
@@ -129,8 +127,6 @@
         <img alt="terminal" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
         <br>Terminal
       </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="google" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png">
       <br>Google
@@ -147,12 +143,12 @@
       <img alt="c" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
       <br>C
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img alt="c++" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
       <br>C++
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="wordpress" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
       <br>WordPress
