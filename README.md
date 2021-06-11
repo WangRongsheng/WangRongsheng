@@ -71,6 +71,8 @@
       <img alt="nodejs" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
       <br>Nodejs
     </td>
+    </tr>
+  <tr>
     <td align="center">
       <img alt="vim" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
       <br>Vim
@@ -83,8 +85,6 @@
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">
       <br>npm
     </td>
-    </tr>
-  <tr>
     <td align="center">
       <img alt="opencv" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png">
       <br>OpenCV
@@ -113,6 +113,8 @@
       <img alt="vue" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
       <br>Vue
     </td>
+    </tr>
+   <tr>
     <td align="center">
       <img alt="github" height=64px src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
       <br>GitHub
@@ -125,8 +127,6 @@
       <img alt="terminal" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
       <br>Terminal
     </td>
-   </tr>
-  <tr>
     <td align="center">
       <img alt="google" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png">
       <br>Google
