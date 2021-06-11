@@ -40,7 +40,15 @@
 </p>
 </details>
 
-
+<h2>My Tech Stack</h2>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python
+    </td>
+   </tr>
+</table>
 
 
 
