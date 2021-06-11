@@ -51,6 +51,10 @@
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
       <br>MySQL
     </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+      <br>Flask
+    </td>
    </tr>
 </table>
 
