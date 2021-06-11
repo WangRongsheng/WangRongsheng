@@ -83,6 +83,8 @@
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">
       <br>npm
     </td>
+    </tr>
+  <tr>
     <td align="center">
       <img alt="opencv" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png">
       <br>OpenCV
