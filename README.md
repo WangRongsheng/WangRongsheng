@@ -94,6 +94,10 @@
       <br>Tensorflow
     </td>
     <td align="center">
+      <img alt="paddle" height=64px src="https://pic.baike.soso.com/ugc/baikepic2/9081/20190821153120-229574320_png_2060_1070_99822.jpg/300">
+      <br>PaddlePaddle
+    </td>
+    <td align="center">
       <img alt="ubuntu" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
       <br>Ubuntu
     </td>
