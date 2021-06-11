@@ -67,6 +67,19 @@
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
       <br>HTML
     </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+      <br>Nodejs
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
+      <br>Vim
+    </td>
+   </tr>
+  <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">
+      <br>npm
+    </td>
    </tr>
 </table>
 
