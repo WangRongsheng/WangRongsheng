@@ -93,6 +93,14 @@
       <img alt="tensorflow" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
       <br>Tensorflow
     </td>
+    <td align="center">
+      <img alt="ubuntu" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+      <br>Ubuntu
+    </td>
+    <td align="center">
+      <img alt="centos" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/centos/centos.png">
+      <br>CentOS
+    </td>
    </tr>
 </table>
 
