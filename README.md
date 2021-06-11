@@ -16,7 +16,7 @@
 ## Visitor Statistics 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center"> 
-  Visitor count<br>
+  来访计数<br>
   <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
 </p>
 
