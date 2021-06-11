@@ -13,7 +13,7 @@
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
 
-## Visitor Statistics 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Visitor Statistics <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
@@ -40,7 +40,7 @@
 </p>
 </details>
 
-## My Tech Stack
+## Tech Stack 👨‍💻 
 <table>
   <tr>
     <td align="center">
