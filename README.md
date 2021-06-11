@@ -27,7 +27,7 @@
 </details>
 
 <details>
-<summary>Click For GitHub Activity Graph</summary>
+<summary>Click For My Love MUsic</summary>
 <p align="center">
   <a href="https://music.163.com/#/user/home?id=1397224764"><img alt = "Music" src="https://spotify-readme.sp-xd.vercel.app/api/spotify"></a>
 </p>
