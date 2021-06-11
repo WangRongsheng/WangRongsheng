@@ -44,16 +44,12 @@
 <table>
   <tr>
     <td align="center">
-      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <br>Python
-    </td>
-    <td align="center">
-      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <br>MySQL
-    </td>
-    <td align="center">
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     <br>Python
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+      <br>MySQL
     </td>
    </tr>
 </table>
