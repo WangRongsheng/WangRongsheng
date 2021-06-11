@@ -47,6 +47,10 @@
       <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <br>Python
     </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <br>MySQL
+    </td>
    </tr>
 </table>
 
