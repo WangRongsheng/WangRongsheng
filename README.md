@@ -20,7 +20,7 @@
 </p>
 
 <details>
-<summary>Click For GitHub Activity Graph</summary>
+<summary><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />Click For GitHub Activity Graph</summary>
 <p align="center">
   <img alt = "GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sajib1066">
 </p>
