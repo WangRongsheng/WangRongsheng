@@ -27,7 +27,7 @@
 </details>
 
 <details>
-<summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />Click For My Love MUsic</summary>
+<summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />Click For My Love Music</summary>
 <p align="center">
   <a href="https://music.163.com/#/user/home?id=1397224764"><img alt = "Music" src="https://spotify-readme.sp-xd.vercel.app/api/spotify"></a>
 </p>
