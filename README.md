@@ -4,6 +4,7 @@
 [![链滴](https://img.shields.io/badge/链滴-查看-orange)](https://ld246.com/member/WangRongsheng)
 [![腾讯云+](https://img.shields.io/badge/腾讯云%2B-查看-lightgrey)](https://cloud.tencent.com/developer/user/4161138)
 [![码云](https://img.shields.io/badge/码云-查看-yellow)](https://gitee.com/niceWangRongsheng)
+[![项目](https://img.shields.io/badge/%E6%BA%90%E7%A0%81-%E9%A1%B9%E7%9B%AE%E9%9B%86%E9%94%A6-brightgreen)](https://mianbaoduo.com/o/ergg)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
