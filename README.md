@@ -1,5 +1,6 @@
 [![项目](https://img.shields.io/badge/%E6%BA%90%E7%A0%81-%E9%A1%B9%E7%9B%AE%E9%9B%86%E9%94%A6-brightgreen)](https://mianbaoduo.com/o/ergg)
 [![知乎](https://img.shields.io/badge/知乎-查看-blue)](https://www.zhihu.com/people/wang-rong-sheng-74)
+[![AIStudio](https://img.shields.io/badge/AIStudio-%E6%9F%A5%E7%9C%8B-yellowgreen)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/98087)
 [![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/u014297502?spm=1000.2115.3001.5113)
 [![Bilibili](https://img.shields.io/badge/Bilibili-查看-pink)](https://space.bilibili.com/383478933)
 [![链滴](https://img.shields.io/badge/链滴-查看-orange)](https://ld246.com/member/WangRongsheng)
