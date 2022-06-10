@@ -5,10 +5,7 @@
 [![AIStudio](https://img.shields.io/badge/AIStudio-%E6%9F%A5%E7%9C%8B-yellowgreen)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/98087)
 [![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/u014297502?spm=1000.2115.3001.5113)
 [![Bilibili](https://img.shields.io/badge/Bilibili-查看-pink)](https://space.bilibili.com/383478933)
-[![链滴](https://img.shields.io/badge/链滴-查看-orange)](https://ld246.com/member/WangRongsheng)
-[![腾讯云+](https://img.shields.io/badge/腾讯云%2B-查看-lightgrey)](https://cloud.tencent.com/developer/user/4161138)
 [![码云](https://img.shields.io/badge/码云-查看-yellow)](https://gitee.com/niceWangRongsheng)
-[![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%9F%A5%E7%9C%8B-lightgrey)](http://pal6fe.coding-pages.com/)
 [![语雀](https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%E6%9F%A5%E7%9C%8B-yellowgreen)](https://www.yuque.com/wangrs)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
