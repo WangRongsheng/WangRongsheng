@@ -11,5 +11,6 @@
   <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
 </p>
 
+## 经历（2022年8月1日及以后）
 
-
+- [2022“域见杯”医检人工智能开发者大赛（Rank 48/295）](https://competition.huaweicloud.com/information/1000041723/introduction?track=107) 
