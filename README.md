@@ -1,13 +1,13 @@
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<img align='right' src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="260" height="170">
-
-<img align="" height="155px" src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-
-
-## Visitor Statistics <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<p align="center">
+  <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+</p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=wangrongsheng&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongsheng&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=wangrongsheng&theme=darcula&hide_border=true&background=FFFFFF00">
+  <!--br>
+  <br>
+  <a href="https://www.buymeacoffee.com/wangrs"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="wangrs" /></a-->
 </p>
 
