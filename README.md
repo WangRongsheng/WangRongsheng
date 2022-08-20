@@ -17,7 +17,7 @@
 
 ### 知识与学习 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <!-- recent_releases starts -->
-[datasette-sentry 0.2](https://github.com/simonw/datasette-sentry/releases/tag/0.2) - 2022-08-14
+[AI项目工程实践](https://github.com/WangRongsheng/AI-Practice) - 进行中⛏️
 </td><td valign="top" width="34%">
 
 ### 课程与竞赛 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
