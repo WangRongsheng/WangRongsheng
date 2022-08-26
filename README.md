@@ -17,17 +17,19 @@
 
 ### 知识与学习 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <!-- recent_releases starts -->
-[AI项目工程实践](https://github.com/WangRongsheng/AI-Practice) - 进行中⛏️
+- [AI项目工程实践](https://github.com/WangRongsheng/AI-Practice) - 进行中⛏️
 </td><td valign="top" width="34%">
 
 ### 课程与竞赛 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <!-- blog starts -->
-[Plugin support for Datasette Lite](http://simonwillison.net/2022/Aug/17/datasette-lite-plugins/) - 2022-08-17
-
+- [大数据概论](https://blog.csdn.net/u014297502/category_11982248.html) - 进行中⛏️
+- [物联网概论](https://blog.csdn.net/u014297502/category_11982245.html) - 进行中⛏️
+- [机器学习](https://blog.csdn.net/u014297502/category_11982249.html) - 进行中⛏️
+- [研究方法](https://blog.csdn.net/u014297502/category_11982251.html) - 进行中⛏️
 </td><td valign="top" width="33%">
 
 ### 科研与论文 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <!-- tils starts -->
-[Sort by number of JSON intersections](https://til.simonwillison.net/sqlite/sort-by-number-of-json-intersections) - 2022-08-17
+- [Sort by number of JSON intersections](https://til.simonwillison.net/sqlite/sort-by-number-of-json-intersections) - 2022-08-17
 
 </td></tr></table>
