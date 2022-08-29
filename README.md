@@ -31,7 +31,6 @@
 
 ### 科研与论文 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <!-- tils starts -->
-- 软件著作权（	
-20220815092018772316481） - 审查中⛏️
+- 软件著作权（20220815092018772316481） - 审查中⛏️
 
 </td></tr></table>
