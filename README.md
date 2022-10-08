@@ -11,25 +11,3 @@
   <a href="https://www.buymeacoffee.com/wangrs"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="wangrs" /></a-->
 </p>
 
-##  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 读研这两年 
-
-<table><tr><td valign="top" width="33%">
-
-### 知识与学习 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<!-- recent_releases starts -->
-- ⛏️
-
-
-### 课程与竞赛 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<!-- blog starts -->
-- [大数据概论](https://blog.csdn.net/u014297502/category_11982248.html) - 进行中⛏️
-- [物联网概论](https://blog.csdn.net/u014297502/category_11982245.html) - 进行中⛏️
-- [机器学习](https://blog.csdn.net/u014297502/category_11982249.html) - 进行中⛏️
-- [研究方法](https://blog.csdn.net/u014297502/category_11982251.html) - 进行中⛏️
-</td><td valign="top" width="33%">
-
-### 科研与论文 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<!-- tils starts -->
-- ⛏️
-
-</td></tr></table>
