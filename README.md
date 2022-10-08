@@ -17,9 +17,8 @@
 
 ### 知识与学习 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <!-- recent_releases starts -->
-- [AI项目工程实践](https://github.com/WangRongsheng/AI-Practice) - 进行中⛏️
-- [李沐深度学习](https://github.com/WangRongsheng/DeepLearing-LiMu-Notes) - 进行中⛏️
-</td><td valign="top" width="34%">
+- ⛏️
+
 
 ### 课程与竞赛 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <!-- blog starts -->
@@ -31,6 +30,6 @@
 
 ### 科研与论文 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <!-- tils starts -->
-- 软件著作权（20220815092018772316481） - 审查中⛏️
+- ⛏️
 
 </td></tr></table>
