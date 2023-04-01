@@ -29,8 +29,8 @@
 
 <div style="display: flex; justify-content: center;">
 <p align="center">
-<img src='https://github.com/SP-XD/SP-XD/raw/main/images/linux_rounded.gif?raw=true' width="200" />
-<a href="https://stats.hyochan.dev/en/stats/wangrongsheng"><img src="https://stats.hyochan.dev/api/github-stats?login=wangrongsheng" width="515" /></a>
+<img src='https://github.com/SP-XD/SP-XD/raw/main/images/linux_rounded.gif?raw=true' width="280" />
+<a href="https://stats.hyochan.dev/en/stats/wangrongsheng"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=wangrongsheng" width="515" /></a>
 </div>
 
 <details>
