@@ -1,8 +1,12 @@
 ![count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/WangRongsheng)
 
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<p align="center">
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="150" />
 
-<!--img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'-->
+
+<!--h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1-->
+
+<!--img align='center' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'-->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
@@ -11,8 +15,9 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-  
-<div align=center><a href="https://stats.hyochan.dev/en/stats/wangrongsheng"><img src="https://stats.hyochan.dev/api/github-stats?login=wangrongsheng" width="600" /></a></div>
+
+<p align="center">
+<a href="https://stats.hyochan.dev/en/stats/wangrongsheng"><img src="https://stats.hyochan.dev/api/github-stats?login=wangrongsheng" width="515" /></a>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
