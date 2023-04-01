@@ -5,7 +5,7 @@
 
 > **Note**
 > 
-> **我正在寻求一个Phd.的就读机会，如果您对我有兴趣可以发邮件给我: [wrs6@88.com](wrs6@88.com)**
+> **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: [wrs6@88.com](wrs6@88.com)**
 
 <p align="center">
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="150" />
