@@ -16,8 +16,14 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 
+
+<div style="display: flex; justify-content: center;">
 <p align="center">
+<img src='https://github.com/SP-XD/SP-XD/raw/main/images/linux_rounded.gif?raw=true' width="200" />
 <a href="https://stats.hyochan.dev/en/stats/wangrongsheng"><img src="https://stats.hyochan.dev/api/github-stats?login=wangrongsheng" width="515" /></a>
+</div>
+
+
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
