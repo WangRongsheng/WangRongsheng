@@ -9,7 +9,8 @@ def get_data():
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36(KHTHL, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
     }
 
-    html_file = requests.get(url, headers=headers, verify=False)
+    #html_file = requests.get(url, headers=headers)
+    html_file = requests.get(url, headers=headers, verify=False, retries=3)
     obj_soup = bs4.BeautifulSoup(html_file.text, 'html.parser')
 
     result = []
