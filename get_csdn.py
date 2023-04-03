@@ -8,6 +8,12 @@ def get_data():
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36(KHTHL, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
     }
+    # 增加连接重试次数(一共4次链接)
+    sess = requests.Session()
+    sess.mount('http://', HTTPAdapter(max_retries=3)) 
+    sess.mount('https://', HTTPAdapter(max_retries=3))
+    # 关闭多余连接
+    sess.keep_alive = False 
 
     html_file = requests.get(url, headers=headers)
     obj_soup = bs4.BeautifulSoup(html_file.text, 'html.parser')
@@ -32,6 +38,7 @@ def get_data():
     # 将修改后的内容保存为新文件
     with open('README.md', 'w', encoding='utf-8') as f:
         f.writelines(lines)
-
+    html_file.close()
+    
 if __name__ == '__main__':
     get_data()
