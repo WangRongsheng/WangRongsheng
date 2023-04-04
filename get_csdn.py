@@ -28,7 +28,7 @@ def get_data():
         ]
         random_user_agent = random.choice(user_agent)
         
-        #headers = {'User-Agent': random_user_agent}
+        headers = {'User-Agent': random_user_agent}
         html_file = requests.get(url, headers=headers, timeout=30)
         obj_soup = bs4.BeautifulSoup(html_file.text, 'html.parser')
         result = []
