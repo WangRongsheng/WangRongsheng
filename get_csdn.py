@@ -26,7 +26,7 @@ def get_data():
         'Mozilla/5.0 (Linux; U; Android 6.0.1; zh-CN; SM-J7108 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/11.9.7.977 Mobile Safari/537.36',
         'Mozilla/6.0 (Linux; Android 8.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Mobile Safari/537.36'
         ]
-        random_user_agent = random.choice(user_agents)
+        random_user_agent = random.choice(user_agent)
         
         #headers = {'User-Agent': random_user_agent}
         html_file = requests.get(url, headers=headers, timeout=30)
