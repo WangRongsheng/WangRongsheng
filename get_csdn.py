@@ -15,7 +15,6 @@ def get_data():
     'Accept-Language': 'zh-CN,zh;q=0.9',
     'Connection': 'keep-alive',
     'Content-Type': 'text/plain;charset=UTF-8',
-    'Referer': referer,
     # 'origin': 'https://blog.csdn.net',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3875.400 QQBrowser/10.8.4492.400'
     }
