@@ -16,7 +16,7 @@ allCount = soup.select(".user-profile-statistics-num")
 # 访问量
 #fangwenCount = allCount[0].string
 # 粉丝数
-fensiNum = allCount[1].string
+fensiNum = allCount[3].string
 fensiNum = str(fensiNum).replace(",", "").strip()
 # 排名
 #paiming = allCount[2].string
