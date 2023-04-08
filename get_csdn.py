@@ -11,7 +11,7 @@ headers = {
 
 res = requests.get(url, headers=headers)
 content = res.text
-soup = BeautifulSoup(content, "lxml")
+soup = BeautifulSoup(content, "html.parser")
 allCount = soup.select(".user-profile-statistics-num")
 # 访问量
 #fangwenCount = allCount[0].string
