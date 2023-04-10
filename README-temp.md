@@ -7,21 +7,19 @@
 > 
 > **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: [wrs6@88.com](wrs6@88.com)**
 
+**面向全球，服务万千科研人的ChatPaper免费网页版正式上线，总结近五年顶会论文五万篇：https://chatpaper.org/**
+
 <div style="display: flex; justify-content: center;">
 <p align="center">
 <img src='https://github.com/SP-XD/SP-XD/raw/main/images/linux_rounded.gif?raw=true' width="280" />
 <a href="https://stats.hyochan.dev/en/stats/wangrongsheng"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=wangrongsheng" width="515" /></a>
 </div>
 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=wangrongsheng&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongsheng&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-</details>
+<p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=wangrongsheng&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongsheng&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
