@@ -26,13 +26,16 @@ jobs:
           python-version: 3.9
 
       - name: 'Install requirements'
-        run: pip install requests beautifulsoup4 pyopenssl feedgenerator 
+        run: pip install requests beautifulsoup4 pyopenssl feedgenerator xlrd xlwt lxml
         
       - name: 'Crawl'
         run: python get_csdn.py
         
       - name: 'feed'
         run: python feed.py
+      
+      - name: 'news'
+        run: python update_news.py
 
       - name: 'Detect changes'
         id: detect_changes
