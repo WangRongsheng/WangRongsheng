@@ -3,6 +3,7 @@
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fwang-rong-sheng-74&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/wang-rong-sheng-74)
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fwangrongsheng&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/wangrongsheng)
 [![Feed](https://img.shields.io/badge/Feed-%E8%AE%A2%E9%98%85-yellowgreen)](https://www.wangrs.co/feed)
+<a href='https://huggingface.co/wangrongsheng'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue'></a>
 
 > **Note**
 > 
