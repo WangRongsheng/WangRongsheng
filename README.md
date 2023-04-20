@@ -3,6 +3,7 @@
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fwang-rong-sheng-74&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/wang-rong-sheng-74)
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fwangrongsheng&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/wangrongsheng)
 [![Feed](https://img.shields.io/badge/Feed-%E8%AE%A2%E9%98%85-yellowgreen)](https://www.wangrs.co/feed)
+<a href='https://huggingface.co/wangrongsheng'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue'></a>
 
 > **Note**
 > 
@@ -24,7 +25,6 @@
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=wangrongsheng&hide_border=true" />
 </p>
-
 |最新动态|最新博文| 
  |:-|:-|
 |1.一篇EI论文被接收.|1.[给静态博客设置一个访客地图](https://lncoder.blog.csdn.net/article/details/129893883)|
@@ -32,4 +32,5 @@
 |3.一篇SCI论文被接收.|3.[让谷歌浏览器不再显示不安全内容的提示](https://lncoder.blog.csdn.net/article/details/129719495)|
 |4.获得CSDN 深度学习领域新星创作者 称号.|4.[centos7安装python3.9](https://lncoder.blog.csdn.net/article/details/129716135)|
 |5.Involve Peking University Project.|5.[完成向Git项目提交一次Pullrequests的流程](https://lncoder.blog.csdn.net/article/details/129524608)|
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
