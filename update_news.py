@@ -78,5 +78,5 @@ for index in range(1, page_num + 1):
     lines.insert(33, '|4.'+str(news[3])+'|4.['+str(title_list[7]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[3])+')|\n')
     lines.insert(34, '|5.'+str(news[4])+'|5.['+str(title_list[9]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[4])+')|\n')
     # 将修改后的内容保存为新文件
-    with open('README.md', 'w', encoding='utf-8') as f:
+    with open('README-2.md', 'w', encoding='utf-8') as f:
         f.writelines(lines)
