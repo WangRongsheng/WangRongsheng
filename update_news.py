@@ -71,12 +71,12 @@ for index in range(1, page_num + 1):
     with open('README-temp.md', 'r', encoding='utf-8') as f:
         lines = f.readlines()
     # 在第五行插入一行
-    lines.insert(27, '|最新动态|最新博文| \n |:-|:-|')
-    lines.insert(29, '|1.'+str(news[0])+'|1.['+str(title_list[1]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[0])+')|\n')
-    lines.insert(30, '|2.'+str(news[1])+'|2.['+str(title_list[3]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[1])+')|\n')
-    lines.insert(31, '|3.'+str(news[2])+'|3.['+str(title_list[5]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[2])+')|\n')
-    lines.insert(32, '|4.'+str(news[3])+'|4.['+str(title_list[7]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[3])+')|\n')
-    lines.insert(33, '|5.'+str(news[4])+'|5.['+str(title_list[9]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[4])+')|\n')
+    lines.insert(28, '|最新动态|最新博文| \n |:-|:-|')
+    lines.insert(30, '|1.'+str(news[0])+'|1.['+str(title_list[1]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[0])+')|\n')
+    lines.insert(31, '|2.'+str(news[1])+'|2.['+str(title_list[3]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[1])+')|\n')
+    lines.insert(32, '|3.'+str(news[2])+'|3.['+str(title_list[5]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[2])+')|\n')
+    lines.insert(33, '|4.'+str(news[3])+'|4.['+str(title_list[7]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[3])+')|\n')
+    lines.insert(34, '|5.'+str(news[4])+'|5.['+str(title_list[9]).replace("\n", "").replace(" ", "")+']('+str(csdn_article_link_list[4])+')|\n')
     # 将修改后的内容保存为新文件
     with open('README.md', 'w', encoding='utf-8') as f:
         f.writelines(lines)
