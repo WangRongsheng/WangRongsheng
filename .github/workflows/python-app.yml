@@ -27,6 +27,9 @@ jobs:
 
       - name: 'Install requirements'
         run: pip install requests beautifulsoup4 pyopenssl feedgenerator xlrd xlwt lxml xlutils
+      
+      - name: 'news'
+        run: python update_news.py
         
       - name: 'Crawl'
         run: python get_csdn.py
@@ -34,9 +37,6 @@ jobs:
       - name: 'feed'
         run: python feed.py
       
-      - name: 'news'
-        run: python update_news.py
-
       - name: 'Detect changes'
         id: detect_changes
         run: if [ -n "$(git status --porcelain)" ]; then echo "::set-output name=changes_detected::yes"; fi
