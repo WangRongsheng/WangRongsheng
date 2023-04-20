@@ -33,10 +33,10 @@ json.dump(authorInfomation,open('authorInfomation.json','w'))
 '''
 content = f'[![CSDN](https://img.shields.io/badge/CSDN-{fensiNum}%20%E5%85%B3%E6%B3%A8-red)](https://blog.csdn.net/u014297502)\n'
 # 读入模板
-with open('README-temp.md', 'r', encoding='utf-8') as f:
+with open('README-2.md', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 # 在第五行插入一行
-lines.insert(7, content)
+lines.insert(6, content)
 # 将修改后的内容保存为新文件
 with open('README.md', 'w', encoding='utf-8') as f:
     f.writelines(lines)
