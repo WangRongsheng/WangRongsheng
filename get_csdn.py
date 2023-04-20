@@ -36,7 +36,7 @@ content = f'[![CSDN](https://img.shields.io/badge/CSDN-{fensiNum}%20%E5%85%B3%E6
 with open('README-temp.md', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 # 在第五行插入一行
-lines.insert(8, content)
+lines.insert(7, content)
 # 将修改后的内容保存为新文件
 with open('README.md', 'w', encoding='utf-8') as f:
     f.writelines(lines)
