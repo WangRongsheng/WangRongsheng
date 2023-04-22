@@ -4,13 +4,11 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fwangrongsheng&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/wangrongsheng)
 [![Feed](https://img.shields.io/badge/Feed-%E8%AE%A2%E9%98%85-yellowgreen)](https://www.wangrs.co/feed)
 <a href='https://huggingface.co/wangrongsheng'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue'></a>
-[![CSDN](https://img.shields.io/badge/CSDN-4199%20%E5%85%B3%E6%B3%A8-red)](https://blog.csdn.net/u014297502)
+[![CSDN](https://img.shields.io/badge/CSDN-4201%20%E5%85%B3%E6%B3%A8-red)](https://blog.csdn.net/u014297502)
 
 > **Note**
 > 
 > **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: [wrs6@88.com](wrs6@88.com)**
-
-**面向全球，服务万千科研人的ChatPaper免费网页版正式上线，总结近五年顶会论文五万篇：https://chatpaper.org/**
 
 <div style="display: flex; justify-content: center;">
 <p align="center">
@@ -27,11 +25,11 @@
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=wangrongsheng&hide_border=true" />
 </p>
 
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 |最新动态|最新博文| 
- |:-|:-|
-|1.一篇EI论文被接收.|1.[给静态博客设置一个访客地图](https://lncoder.blog.csdn.net/article/details/129893883)|
+ |:-|:-||1.一篇EI论文被接收.|1.[给静态博客设置一个访客地图](https://lncoder.blog.csdn.net/article/details/129893883)|
 |2.在RSNA Screening Mammography Breast Cancer Detection 中获得银牌, 宣传：澳理工MPU 、澳门日报 .|2.[Meta的LLama模型非官方下载方法](https://lncoder.blog.csdn.net/article/details/129829677)|
 |3.一篇SCI论文被接收.|3.[让谷歌浏览器不再显示不安全内容的提示](https://lncoder.blog.csdn.net/article/details/129719495)|
 |4.获得CSDN 深度学习领域新星创作者 称号.|4.[centos7安装python3.9](https://lncoder.blog.csdn.net/article/details/129716135)|
 |5.Involve Peking University Project.|5.[完成向Git项目提交一次Pullrequests的流程](https://lncoder.blog.csdn.net/article/details/129524608)|
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
