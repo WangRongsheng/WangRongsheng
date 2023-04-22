@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fwangrongsheng&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/wangrongsheng)
 [![Feed](https://img.shields.io/badge/Feed-%E8%AE%A2%E9%98%85-yellowgreen)](https://www.wangrs.co/feed)
 <a href='https://huggingface.co/wangrongsheng'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue'></a>
-[![CSDN](https://img.shields.io/badge/CSDN-4175%20%E5%85%B3%E6%B3%A8-red)](https://blog.csdn.net/u014297502)
+[![CSDN](https://img.shields.io/badge/CSDN-4199%20%E5%85%B3%E6%B3%A8-red)](https://blog.csdn.net/u014297502)
 
 > **Note**
 > 
