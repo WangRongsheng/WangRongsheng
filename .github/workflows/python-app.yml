@@ -31,9 +31,6 @@ jobs:
       - name: 'news'
         run: python update_news.py
         
-      - name: 'Crawl'
-        run: python get_csdn.py
-        
       - name: 'feed'
         run: python feed.py
       
