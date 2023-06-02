@@ -28,9 +28,9 @@
 
 |最新动态|最新博文| 
  |:-|:-|
-|1.一篇EI论文被接收.|1.[Huggingface上传自己的预训练模型（大小权重都可以）](https://lncoder.blog.csdn.net/article/details/130892102)|
-|2.在RSNA Screening Mammography Breast Cancer Detection 中获得银牌, 宣传：澳理工MPU 、澳门日报 .|2.[给静态博客设置一个访客地图](https://lncoder.blog.csdn.net/article/details/129893883)|
-|3.一篇SCI论文被接收.|3.[Meta的LLama模型非官方下载方法](https://lncoder.blog.csdn.net/article/details/129829677)|
-|4.获得CSDN 深度学习领域新星创作者 称号.|4.[让谷歌浏览器不再显示不安全内容的提示](https://lncoder.blog.csdn.net/article/details/129719495)|
-|5.Involve Peking University Project.|5.[centos7安装python3.9](https://lncoder.blog.csdn.net/article/details/129716135)|
+|1.担任智谱AI(ChatGLM-6B团队)公开课之XrayGLM微调实践技术主讲人.|1.[Huggingface上传自己的预训练模型（大小权重都可以）](https://lncoder.blog.csdn.net/article/details/130892102)|
+|2.担任百度飞桨与Datawhale公开课之大模型底层原理与应用开发范式技术主讲人.|2.[给静态博客设置一个访客地图](https://lncoder.blog.csdn.net/article/details/129893883)|
+|3.一篇EI论文被接收.|3.[Meta的LLama模型非官方下载方法](https://lncoder.blog.csdn.net/article/details/129829677)|
+|4.在RSNA Screening Mammography Breast Cancer Detection 中获得银牌, 宣传：澳理大 MPU 、澳门日报 .|4.[让谷歌浏览器不再显示不安全内容的提示](https://lncoder.blog.csdn.net/article/details/129719495)|
+|5.一篇SCI论文被接收.|5.[centos7安装python3.9](https://lncoder.blog.csdn.net/article/details/129716135)|
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
