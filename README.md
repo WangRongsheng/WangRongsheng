@@ -27,11 +27,4 @@
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=wangrongsheng&hide_border=true" />
 </p>
 
-|最新动态|最新博文| 
- |:-|:-|
-|1.一篇EI论文被接收.|1.[给静态博客设置一个访客地图](https://lncoder.blog.csdn.net/article/details/129893883)|
-|2.在RSNA Screening Mammography Breast Cancer Detection 中获得银牌, 宣传：澳理工MPU 、澳门日报 .|2.[Meta的LLama模型非官方下载方法](https://lncoder.blog.csdn.net/article/details/129829677)|
-|3.一篇SCI论文被接收.|3.[让谷歌浏览器不再显示不安全内容的提示](https://lncoder.blog.csdn.net/article/details/129719495)|
-|4.获得CSDN 深度学习领域新星创作者 称号.|4.[centos7安装python3.9](https://lncoder.blog.csdn.net/article/details/129716135)|
-|5.Involve Peking University Project.|5.[完成向Git项目提交一次Pullrequests的流程](https://lncoder.blog.csdn.net/article/details/129524608)|
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
