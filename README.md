@@ -15,12 +15,13 @@
 <div style="display: flex; justify-content: center;">
 <p align="center">
 <img src='https://github.com/SP-XD/SP-XD/raw/main/images/linux_rounded.gif?raw=true' width="280" />
-<a href="https://stats.hyochan.dev/en/stats/wangrongsheng"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=wangrongsheng" width="515" /></a>
+<a href="https://stats.hyochan.dev/en/stats/wangrongsheng"><img src="https://stats.hyochan.dev/api/github-stats?login=wangrongsheng" width="515" /></a>
 </div>
 <!-- 
 <p align="center">
 <img src="https://stats.hyochan.dev/api/github-trophies?login=wangrongsheng" width="600">
 </p> -->
+
 
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
