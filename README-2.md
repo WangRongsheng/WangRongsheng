@@ -28,9 +28,9 @@
 
 |最新动态|最新博文| 
  |:-|:-|
-|1.一篇SCI论文和一篇CICAI-2023会议论文被被接受!|1.[在具体领域中微调LLM模型的方案实施建议](https://lncoder.blog.csdn.net/article/details/131012875)|
-|2.协助华东师范、上海交大附属第九人民医院完成青光眼问答系统，服务2100万患者。推文|2.[Huggingface上传自己的预训练模型（大小权重都可以）](https://lncoder.blog.csdn.net/article/details/130892102)|
-|3.担任智谱AI(ChatGLM-6B团队)公开课之XrayGLM微调实践技术主讲人.|3.[给静态博客设置一个访客地图](https://lncoder.blog.csdn.net/article/details/129893883)|
-|4.担任百度飞桨与Datawhale公开课之大模型底层原理与应用开发范式技术主讲人.|4.[Meta的LLama模型非官方下载方法](https://lncoder.blog.csdn.net/article/details/129829677)|
-|5.一篇EI论文被接受.|5.[让谷歌浏览器不再显示不安全内容的提示](https://lncoder.blog.csdn.net/article/details/129719495)|
+|1.一篇SCI论文和一篇CICAI-2023会议论文被被接受!|1.[ArXiv论文上传与发表的问题解决记录](https://lncoder.blog.csdn.net/article/details/131771815)|
+|2.协助华东师范、上海交大附属第九人民医院完成青光眼问答系统，服务2100万患者。推文|2.[在具体领域中微调LLM模型的方案实施建议](https://lncoder.blog.csdn.net/article/details/131012875)|
+|3.担任智谱AI(ChatGLM-6B团队)公开课之XrayGLM微调实践技术主讲人.|3.[Huggingface上传自己的预训练模型（大小权重都可以）](https://lncoder.blog.csdn.net/article/details/130892102)|
+|4.担任百度飞桨与Datawhale公开课之大模型底层原理与应用开发范式技术主讲人.|4.[给静态博客设置一个访客地图](https://lncoder.blog.csdn.net/article/details/129893883)|
+|5.一篇EI论文被接受.|5.[Meta的LLama模型非官方下载方法](https://lncoder.blog.csdn.net/article/details/129829677)|
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
