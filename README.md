@@ -5,7 +5,7 @@
 <p align="center">
   <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.wangrs.co/"><img src="./resources/wrs-re.jpg" align="bottom" width="100px"/></a>
+<a href="https://www.wangrs.co/"><img src="./resources/wrs-re.png" align="bottom" width="100px"/></a>
 </p>
   <h3 align="center">王荣胜｜Rongsheng Wang <img src="./resources/Hi.gif" width="29px"> </h3>
  <!-- <h5 align="center">💻做一切看起来都不那么容易实现的事情🎨</h5> -->
