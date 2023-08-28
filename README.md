@@ -4,7 +4,7 @@
 
 > **warning**
 > 
-> **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: [wrs6@88.com](wrs6@88.com)**
+> **[CareLlama](https://github.com/WangRongsheng/CareLlama)项目作为一个热门的医疗LLM，我们决定进行为期一个月的闭源维护，请知悉！**
 
 <p align="center">
   <p align="center">
