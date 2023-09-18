@@ -6,6 +6,10 @@
 > 
 > **[CareLlama](https://github.com/WangRongsheng/CareLlama)项目作为一个热门的医疗LLM，我们决定进行为期一个月的闭源维护，请知悉！但您仍然可以[在线体验](https://huggingface.co/spaces/wangrongsheng/CareLlama)**
 
+> [!IMPORTANT]
+> 
+> Welcome to join [9U AI Research Group](https://papaya-gumdrop-233639.netlify.app/), We are dedicated to building safe, reliable, and practical visual and language AI models to serve society.
+
 <p align="center">
   <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
