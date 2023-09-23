@@ -28,7 +28,7 @@
 <a href="https://github.com/wangrongsheng"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fwangrongsheng&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" align="bottom"/></a>
 <a href="https://www.wangrs.co/feed"><img src="https://img.shields.io/badge/Feed-%E8%AE%A2%E9%98%85-yellowgreen" align="bottom"/></a>
 <a href="https://huggingface.co/wangrongsheng"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue" align="bottom"/></a>
-<a href="https://blog.csdn.net/u014297502"><img src="https://img.shields.io/badge/CSDN-6756%20%E5%85%B3%E6%B3%A8-red" align="bottom"/></a>
+<a href="https://blog.csdn.net/u014297502"><img src="https://img.shields.io/badge/CSDN-7000%20%E5%85%B3%E6%B3%A8-red" align="bottom"/></a>
 </p>
 
 <!-- <p align="center">
