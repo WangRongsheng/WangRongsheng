@@ -4,7 +4,7 @@
 
 > **warning**
 > 
-> **[CareLlama](https://github.com/WangRongsheng/CareLlama)项目作为一个热门的医疗LLM，我们决定进行为期一个月的闭源维护(`2023-10-15开放`)，请知悉！但您仍然可以[在线体验](https://huggingface.co/spaces/wangrongsheng/CareLlama)**
+> **[CareGPT](https://github.com/WangRongsheng/CareGPT)项目作为一个热门的医疗LLM，我们决定进行为期一个月的闭源维护(`2023-10-15开放`)，请知悉！但您仍然可以[在线体验](https://huggingface.co/spaces/wangrongsheng/CareLlama)**
 
 > [!IMPORTANT]
 > 
