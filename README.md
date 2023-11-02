@@ -2,10 +2,11 @@
 > 
 > **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: <a href = "mailto: wrs6@88.com">wrs6@88.com</a>**
 
+<!--
 > [!IMPORTANT]
 > 
 > Welcome to join [🥝QiyiGuo Research Group](https://papaya-gumdrop-233639.netlify.app/), We are dedicated to building safe, reliable, and practical visual and language AI models to serve society.
-
+-->
 
 <p align="center">
   <p align="center">
