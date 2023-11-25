@@ -55,8 +55,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wangrongsheng&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
 </p>
 
+<!--
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jrus44ccnl54e4oruv6ulcdjki)
 </div>
+-->
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
