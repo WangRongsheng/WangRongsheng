@@ -63,4 +63,15 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Aurora)](https://github.com/WangRongsheng/Aurora)
+
+
+<table>
+<tr>
+  <td> 
+    <a href="https://github.com/WangRongsheng/Aurora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Aurora" alt="Aurora GitHub Repo"></a> 
+  </td>
+  <td>
+        <a href="https://github.com/WangRongsheng/MedQA-ChatGLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=MedQA-ChatGLM" alt="MedQA-ChatGLM GitHub Repo"></a> 
+  </td>
+</tr>
+</table>
