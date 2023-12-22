@@ -74,4 +74,12 @@
         <a href="https://github.com/WangRongsheng/MedQA-ChatGLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=MedQA-ChatGLM" alt="MedQA-ChatGLM GitHub Repo"></a> 
   </td>
 </tr>
+  <tr>
+  <td> 
+    <a href="https://github.com/WangRongsheng/BestYOLO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=BestYOLO" alt="BestYOLO GitHub Repo"></a> 
+  </td>
+  <td>
+        <a href="https://github.com/WangRongsheng/Use-LLMs-in-Colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Use-LLMs-in-Colab" alt="Use-LLMs-in-Colab GitHub Repo"></a> 
+  </td>
+</tr>
 </table>
