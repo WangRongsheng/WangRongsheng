@@ -82,4 +82,9 @@
         <a href="https://github.com/WangRongsheng/Use-LLMs-in-Colab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=Use-LLMs-in-Colab" alt="Use-LLMs-in-Colab GitHub Repo"></a> 
   </td>
 </tr>
+  <tr>
+  <td> 
+    <a href="https://github.com/WangRongsheng/ChatGenTitle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=ChatGenTitle" alt="ChatGenTitle GitHub Repo"></a> 
+  </td>
+</tr>
 </table>
