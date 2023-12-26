@@ -86,5 +86,8 @@
   <td> 
     <a href="https://github.com/WangRongsheng/ChatGenTitle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=ChatGenTitle" alt="ChatGenTitle GitHub Repo"></a> 
   </td>
+    <td> 
+    <a href="https://github.com/WangRongsheng/SAM-fine-tune"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=SAM-fine-tune" alt="SAM-fine-tune GitHub Repo"></a> 
+  </td>
 </tr>
 </table>
