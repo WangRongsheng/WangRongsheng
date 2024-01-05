@@ -90,4 +90,12 @@
     <a href="https://github.com/WangRongsheng/SAM-fine-tune"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=SAM-fine-tune" alt="SAM-fine-tune GitHub Repo"></a> 
   </td>
 </tr>
+  <tr>
+  <td> 
+    <a href="https://github.com/WangRongsheng/XrayGLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=XrayGLM" alt="XrayGLM GitHub Repo"></a> 
+  </td>
+    <td> 
+    <a href="https://github.com/WangRongsheng/IvyGPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=IvyGPT" alt="IvyGPT GitHub Repo"></a> 
+  </td>
+</tr>
 </table>
