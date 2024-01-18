@@ -109,4 +109,13 @@
     <a href="https://github.com/WangRongsheng/IvyGPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=IvyGPT" alt="IvyGPT GitHub Repo"></a> 
   </td>
 </tr>
+  </tr>
+  <tr>
+  <td> 
+    <a href="https://github.com/WangRongsheng/make-your-yolov5_dataset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=make-your-yolov5_dataset" alt="make-your-yolov5_dataset GitHub Repo"></a> 
+  </td>
+    <td> 
+    <a href="https://github.com/PKU-YuanGroup/Machine-Mindset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PKU-YuanGroup&repo=Machine-Mindset" alt="Machine-Mindset GitHub Repo"></a> 
+  </td>
+</tr>
 </table>
