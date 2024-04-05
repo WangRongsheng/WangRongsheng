@@ -35,6 +35,7 @@
   <a  href="https://www.zhihu.com/people/wang-rong-sheng-74"><img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white" align="bottom"/></a>
   <a  href="https://twitter.com/RongshengWang"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="bottom"/></a>
   <a  href="https://www.kaggle.com/rongshengwang"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" align="bottom"/></a>
+  <a  href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" align="bottom"/></a>
 </p>
 
 <!-- <p align="center">
