@@ -58,12 +58,19 @@
 <p align = "center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=wangrongsheng" /> -->
   
-<img src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&count_private=true&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=5" />
+<!--img src="https://github-readme-stats.vercel.app/api?username=wangrongsheng&count_private=true&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=5" /-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WangRongsheng&theme=nord_bright" alt="Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WangRongsheng&theme=nord_bright" alt="Repositories per Language">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WangRongsheng&theme=nord_bright" alt="Most Commits Language">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WangRongsheng&theme=nord_bright" alt="Statistics">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WangRongsheng&theme=nord_bright&utcOffset=8" alt="Productive Time">
+
+
 </p>
 
-<p align = "center">
+<!--p align = "center">
   <img src="https://github-profile-trophy.vercel.app/?username=wangrongsheng&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
-</p>
+</p-->
 
 <p align="center">
 <a href="https://github.com/PiyushSuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?quote=💻Doing%20everything🎨%20that%20seems%20not%20so%20easy%20to%20achieve!&type=horizontal&author=Rongsheng%20Wang" /></a>
