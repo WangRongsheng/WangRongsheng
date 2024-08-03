@@ -9,11 +9,11 @@
 > Welcome to join [🥝QiyiGuo Research Group](https://papaya-gumdrop-233639.netlify.app/), We are dedicated to building safe, reliable, and practical visual and language AI models to serve society.
 -->
 
-<p align="center">
+<!--p align="center">
   <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.wangrs.co/"><img src="./resources/wrs_mpu.png" align="bottom" width="500px"/></a>
-</p>
+</p-->
   <h3 align="center">王荣胜｜Rongsheng Wang <img src="./resources/Hi.gif" width="29px"> </h3>
  <!-- <h5 align="center">💻做一切看起来都不那么容易实现的事情🎨</h5> -->
   <!--h5 align="center">💻Doing everything🎨 that seems not so easy to achieve!</h5-->
