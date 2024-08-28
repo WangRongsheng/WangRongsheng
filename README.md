@@ -39,9 +39,7 @@
   <a  href="https://www.reddit.com/"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" align="bottom"/></a>
 </p>
 
-<p align="center">
-<a href="https://info.flagcounter.com/U6Yn"><img src="https://s11.flagcounter.com/count2/U6Yn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</p>
+
 
 <!-- <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
