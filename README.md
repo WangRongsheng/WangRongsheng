@@ -132,12 +132,17 @@
   </td>
 </tr>
   </tr>
-  <tr>
+<tr>
   <td> 
     <a href="https://github.com/WangRongsheng/make-your-yolov5_dataset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=make-your-yolov5_dataset" alt="make-your-yolov5_dataset GitHub Repo"></a> 
   </td>
-    <td> 
+  <td> 
     <a href="https://github.com/PKU-YuanGroup/Machine-Mindset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PKU-YuanGroup&repo=Machine-Mindset" alt="Machine-Mindset GitHub Repo"></a> 
+  </td>
+</tr>
+  <tr>
+  <td> 
+    <a href="https://github.com/FreedomIntelligence/Medical_NLP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreedomIntelligence&repo=Medical_NLP" alt="Medical_NLP GitHub Repo"></a> 
   </td>
 </tr>
 </table>
