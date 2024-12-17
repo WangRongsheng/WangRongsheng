@@ -144,5 +144,8 @@
   <td> 
     <a href="https://github.com/FreedomIntelligence/Medical_NLP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreedomIntelligence&repo=Medical_NLP" alt="Medical_NLP GitHub Repo"></a> 
   </td>
+  <td> 
+    <a href="https://github.com/WangRongsheng/awesome-Project-Homepage-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=awesome-Project-Homepage-template" alt="awesome-Project-Homepage-template GitHub Repo"></a> 
+  </td>
 </tr>
 </table>
