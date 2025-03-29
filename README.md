@@ -151,4 +151,9 @@
     <a href="https://github.com/WangRongsheng/awesome-Project-Homepage-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WangRongsheng&repo=awesome-Project-Homepage-template" alt="awesome-Project-Homepage-template GitHub Repo"></a> 
   </td>
 </tr>
+  <tr>
+  <td> 
+    <a href="https://github.com/FreedomIntelligence/TinyDeepSeek"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreedomIntelligence&repo=TinyDeepSeek" alt="TinyDeepSeek GitHub Repo"></a> 
+  </td>
+</tr>
 </table>
