@@ -38,8 +38,8 @@
   <a  href="https://www.zhihu.com/people/wang-rong-sheng-74"><img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white" align="bottom"/></a>
   <a  href="https://twitter.com/RongshengWang"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="bottom"/></a>
   <a  href="https://www.kaggle.com/rongshengwang"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" align="bottom"/></a>
-  <a  href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" align="bottom"/></a>
-  <a  href="https://www.reddit.com/"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" align="bottom"/></a>
+<!--   <a  href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" align="bottom"/></a> -->
+<!--   <a  href="https://www.reddit.com/"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" align="bottom"/></a> -->
   <a  href="https://github.com/WangRongsheng/WangRongsheng/blob/master/created_by_wrs.md"><img src="https://img.shields.io/badge/Refined%20GitHub-9E95B7.svg?style=for-the-badge&logo=Refined-GitHub&logoColor=white" align="bottom"/></a>
 </p>
 
