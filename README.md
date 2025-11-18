@@ -28,7 +28,7 @@
 <!--a href="https://www.zhihu.com/people/wang-rong-sheng-74"><img src="https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dwang-rong-sheng-74&longCache=true"/></a-->
 <a href="https://github.com/wangrongsheng"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fwangrongsheng&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" align="bottom"/></a>
 <a href="https://huggingface.co/wangrongsheng"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue" align="bottom"/></a>
-<a href="https://blog.csdn.net/u014297502"><img src="https://img.shields.io/badge/CSDN-10561%20%E5%85%B3%E6%B3%A8-red" align="bottom"/></a>
+<!-- <a href="https://blog.csdn.net/u014297502"><img src="https://img.shields.io/badge/CSDN-10561%20%E5%85%B3%E6%B3%A8-red" align="bottom"/></a> -->
 <a href="https://www.xiaohongshu.com/user/profile/5fa2663000000000010068e2"><img src="https://img.shields.io/badge/小红书-2223%20%E5%85%B3%E6%B3%A8-pink" align="bottom"/></a>
 <!--a href="https://twitter.com/RongshengWang"><img src="https://img.shields.io/badge/dynamic/json?logo=twitter&label=Twitter&labelColor=282c34&suffix=+followers&color=1da1f2&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DRongshengWang&longCache=true" align="bottom"/></a-->
 </p>
