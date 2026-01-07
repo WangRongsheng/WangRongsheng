@@ -11,7 +11,7 @@
 > Welcome to join [🥝QiyiGuo Research Group](https://papaya-gumdrop-233639.netlify.app/), We are dedicated to building safe, reliable, and practical visual and language AI models to serve society.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hi%20there,%20I'm%20Rongsheng%20%20!&reversal=false&section=header&fontColor=ffffff&textBg=false" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hi%20there,%20I'm%20Rongsheng%20%20!&fontSize=45&reversal=false&section=header&fontColor=ffffff&textBg=false" width="100%">
 
 
 <!--p align="center">
