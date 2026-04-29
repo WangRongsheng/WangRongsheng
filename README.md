@@ -82,9 +82,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wangrongsheng&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
 </p-->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/PiyushSuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?quote=💻Doing%20everything🎨%20that%20seems%20not%20so%20easy%20to%20achieve!&type=horizontal&author=Rongsheng%20Wang" /></a>
-</p>
+</p> -->
 
 <!--
 &nbsp;<div align="center">
