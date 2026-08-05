@@ -72,9 +72,15 @@
 <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WangRongsheng&theme=nord_bright" alt="Profile Details"-->
 <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WangRongsheng&theme=nord_bright" alt="Repositories per Language"-->
 <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WangRongsheng&theme=nord_bright" alt="Most Commits Language"-->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WangRongsheng&theme=nord_bright" alt="Statistics">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WangRongsheng&theme=nord_bright&utcOffset=8" alt="Productive Time">
+<!--img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WangRongsheng&theme=nord_bright" alt="Statistics"-->
+<!--img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WangRongsheng&theme=nord_bright&utcOffset=8" alt="Productive Time"-->
 
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/wangrongsheng?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai"
+    alt="GitHub Metrics"
+  />
+</p>
 
 </p>
 
