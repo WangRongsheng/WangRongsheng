@@ -46,6 +46,24 @@
   <a  href="https://github.com/WangRongsheng/WangRongsheng/blob/master/created_by_wrs.md"><img src="https://img.shields.io/badge/Refined%20GitHub-9E95B7.svg?style=for-the-badge&logo=Refined-GitHub&logoColor=white" align="bottom"/></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/WangRongsheng">
+  <img src="https://img.shields.io/badge/Total%20Stars-14.2k-FFD93D.svg?style=for-the-badge&logo=github&logoColor=white" align="bottom"/>
+</a>
+
+<a href="https://github.com/WangRongsheng?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-810-4C8BF5.svg?style=for-the-badge&logo=github&logoColor=white" align="bottom"/>
+</a>
+
+<!-- <a href="https://github.com/WangRongsheng?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repos-54-2EA44F.svg?style=for-the-badge&logo=github&logoColor=white" align="bottom"/>
+</a> -->
+
+<a href="https://gitstar-ranking.com/WangRongsheng">
+  <img src="https://img.shields.io/badge/Global%20Star%20Rank-%231606-FF6B6B.svg?style=for-the-badge&logo=github&logoColor=white" align="bottom"/>
+</a>
+</p>
+
 
 
 <!-- <p align="center">
